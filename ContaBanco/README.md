@@ -1,18 +1,21 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Projeto JAVA Básico 
 
-## Folder Structure
+Projeto desenvolvido para o Bootcamp do Santander de Backend com Java. O Projeto consiste em solicitar a entrada de dados via terminal do usuário e imprimir esses dados na tela.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Autores
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- [@ErickGutterres](https://www.github.com/ErickGutterres)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+## Stack utilizada
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Back-end:** Java
+
+
+## Funcionalidades
+
+- Receber dados digitados do usuário
+- Imprimir os dados concatenados na tela via terminal 
+
