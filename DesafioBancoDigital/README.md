@@ -18,7 +18,7 @@ Funcionalidades:
 
 - **EXTRATO:**
     
-    Imprimi o extrato da conta solicitada na tela com os dados da agência, número da conta e saldo.    
+    Imprime o extrato da conta solicitada na tela com os dados da agência, número da conta e saldo.    
 
 ## Autores
 
